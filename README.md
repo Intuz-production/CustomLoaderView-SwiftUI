@@ -1,4 +1,8 @@
-<h1>Introduction</h1>
+## About Intuz
+This library is maintained by [Intuz](https://www.intuz.com) — an AI-first software development company specializing in [iOS app development](https://www.intuz.com/ios-development)
+and [mobile app development](https://www.intuz.com/custom-app-development).
+<br><br>
+
 INTUZ is presenting an interesting a custom loader view in SwiftUI, App Control to integrate inside your native iOS-based application. 
 Custom LoaderView is a simple component, which lets you use to customise your Loader with color combination and simple UI. 
 
